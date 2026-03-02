@@ -2,6 +2,8 @@
 
 Control Java Flight Recorder (JFR) from Neovim.
 
+This plugin was generated using AI.
+
 - Start / stop / dump recordings via `jcmd`
 - Monitor active recordings in-editor
 - Save recordings under your project (`<root>/.jfr/recordings`)
